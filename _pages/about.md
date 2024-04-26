@@ -16,13 +16,13 @@ redirect_from:
 ---
 
 ## News 📰
-- *2024.04*  Excellent graduate student of the 2023-2024 academic year.
-- *2024.04*  **Officially admitted to the Computer Science PhD program at Stony Brook University.**
-- *2024.01*  Selected as the reviewer for ACM MM 24.
-- *2023.10*  Excellent graduate student of the 2022-2023 academic year.
-- *2023.10*  Poster presentation of my ACM MM 23 paper.
-- *2023.10*  I won a national scholarship for postgraduate students in the 2022-2023 school year.
-- *2023.07*  One paper was accepted to be appeared on ACM MM 23.
+- *2024.04* - Excellent graduate student of the 2023-2024 academic year.
+- *2024.04* - **Officially admitted to the Computer Science PhD program at Stony Brook University.**
+- *2024.01* - Selected as the reviewer for ACM MM 24.
+- *2023.10* - Excellent graduate student of the 2022-2023 academic year.
+- *2023.10* - Poster presentation of my ACM MM 23 paper.
+- *2023.10* - I won a national scholarship for postgraduate students in the 2022-2023 school year.
+- *2023.07* - One paper was accepted to be appeared on ACM MM 23.
 
 ---
 
