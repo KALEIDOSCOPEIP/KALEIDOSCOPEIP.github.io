@@ -58,10 +58,10 @@ Cai Ke, Qingyu Xiong, Chao Wu, **Zikai Liao** Hualing Yi
 <table frame=void border="0">
   <tbody>
     <tr>
-      <td>
+      <td width="40%">
         <img src="../files/defect.jpg" width=640 height=480 alt="defect detection" aligh=center />
       </td>
-      <td>
+      <td width="60%">
         <b>Automatic Defect Detection for PC Displays</b><br/>
         Design a hardware and software system for automatic defect detection for PC displays on assembly lines. Defect types include dirt, dust, hair, broken pixel, mura (contrast inconsistency), light leaking, etc. The preliminary test was passed on August 2023 at Chuntex Elite Technology.
       </td>
