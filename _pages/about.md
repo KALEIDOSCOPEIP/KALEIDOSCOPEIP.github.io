@@ -63,7 +63,7 @@ Cai Ke, Qingyu Xiong, Chao Wu, **Zikai Liao** Hualing Yi
       </td>
       <td>
         <b>Automatic Defect Detection for PC Displays</b><br/>
-        Design a hardware and software system for automatic defect detection for PC displays on assembly lines. Passed preliminary acceptance in August 2023.
+        Design a hardware and software system for automatic defect detection for PC displays on assembly lines. Defect types include dirt, dust, hair, broken pixel, mura (contrast inconsistency), light leaking, etc. The preliminary test was passed on August 2023 at Chuntex Elite Technology.
       </td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ Cai Ke, Qingyu Xiong, Chao Wu, **Zikai Liao** Hualing Yi
       </td>
       <td>
         <b>Behavioral Safety Identification System for Substation Workers</b><br/>
-        Based on camera footage, we designed a software platform for the identification of substation workers' behavior to ensure safety regulations.
+        Based on camera footage, we designed a software platform to identify substation workers' behavior to ensure safety regulations, including wearing the worker uniform and the helmet, opening the electrical box with the correct gadgets, and operating the devices with appropriate actions. I completed this project on September 2022.
       </td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@ Cai Ke, Qingyu Xiong, Chao Wu, **Zikai Liao** Hualing Yi
       </td>
       <td>
         <b>Exam ID & Face Recognition System based on OpenCV</b><br/>
-        The course design for "Comprehensive Software Development Practice".
+        The course project for "Comprehensive Software Development Practice". The goal of this project is to identify exam taker's ID by jointly matching his/her face with information recorded in the database.
       </td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@ Cai Ke, Qingyu Xiong, Chao Wu, **Zikai Liao** Hualing Yi
       </td>
       <td>
         <b>Student Information Management System based on .Net C#</b><br/>
-        The course design for "Software Development (3) (.NET Platform)".
+        The course project for "Software Development (3) (.NET Platform)". It aims to build a system to manage student information, including adding, searching, modifying, and deleting.
       </td>
     </tr>
   </tbody>
