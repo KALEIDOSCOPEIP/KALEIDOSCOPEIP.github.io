@@ -28,15 +28,15 @@ redirect_from:
 
 ## Educations 🎓
 
-**Chongqing University of Posts and Telecommunication**, Chongqing, China - 09/2017~06/2021
-- Major: Software Engineering
-- Degree: Bachelor of Engineering
-- Software Engineering with English, School of Software Engineering
-
 **Xidian University**, Xi'an, China - 09/2021~06/2024 (expected)
 - Major: Software Engineering
 - Degree: Master of Engineering (expected)
 - Research Interest: Computer Vision, Image Analysis, Image Processing
+
+**Chongqing University of Posts and Telecommunication**, Chongqing, China - 09/2017~06/2021
+- Major: Software Engineering
+- Degree: Bachelor of Engineering
+- Software Engineering with English, School of Software Engineering
 
 ---
 
@@ -99,7 +99,7 @@ Cai Ke, Qingyu Xiong, Chao Wu, **Zikai Liao** Hualing Yi
 ---
 
 ## Misc 💡
-- My hometown is Guilin ([Google Maps](https://maps.app.goo.gl/Ne281Q9Kp1wXt4Qu5), [Wikipedia](https://en.wikipedia.org/wiki/Guilin)), a beautiful city with stunning natural landscapes of karst topography ⛰️ 🏞. Guilin is one of China's most popular tourist destinations, and the epithet "By water, by mountains, most lovely, Guilin" (桂林山水甲天下) is often associated with the city. Guilin welcomes you!
+- My hometown is Guilin ([Google Maps](https://maps.app.goo.gl/Ne281Q9Kp1wXt4Qu5), [Wikipedia](https://en.wikipedia.org/wiki/Guilin)), a beautiful city with stunning natural landscapes of karst topography ⛰️ 🏞.
 - I am addicted to music 24/7 🎵🎶 without music I think I might die. I sometimes record and edit music for fun, and hope to learn more about music production.
 - Amateur photography enthusiast 📷. I find my surroundings always worthy of a picture taken because I believe everything is beautiful in its own way. When I purchase a new phone, its camera capacity is one of my focuses.
 - I was a dancer when I was young 🕺. Even though I don't dance like before nowadays, I am still looking forward to reinvigorating my passion for dancing.
